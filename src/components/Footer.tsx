@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="w-full lg:w-1/3 flex flex-col justify-between">
           <div className="">
             <h3 className="text-3xl font-semibold mb-6">
-              {"{finsweet"}
+              {"SpakTech"}
             </h3>
             <p className="text-white/70 mb-20">
               We are always open to discuss your project and improve your online presence.

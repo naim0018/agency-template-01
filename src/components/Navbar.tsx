@@ -4,7 +4,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex justify-between items-center">
           <div className="text-white text-2xl font-semibold">
-            {"{finsweet"}
+            {"SpakTech"}
           </div>
 
           {/* Desktop Menu */}
