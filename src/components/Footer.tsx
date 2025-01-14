@@ -75,7 +75,7 @@ const Footer = () => {
         <div className="bg-white">
           <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center px-6 py-6 md:py-8 gap-4">
             <div className="text-center md:text-left">
-              <p className="text-black/70">Copyright 2024, Finsweet.com</p>
+              <p className="text-black/70">Copyright 2024, SpakTech</p>
             </div>
             <div className="flex flex-wrap justify-center md:justify-end gap-4 md:gap-8">
               <a href="#" className="text-black hover:text-[#FCD980] transition">Home</a>
